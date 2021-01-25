@@ -29,8 +29,8 @@ python main.py -d flickr-flickr -n 5000
 ### Raw datasets
 We used two public social network datasets in the paper: 
 
-* Facebook-Twitter
-* Weibo-Douban
+* *Facebook-Twitter*
+* *Weibo-Douban*
 
 You can download the complete datasets from [here](http://apex.sjtu.edu.cn/datasets/8). 
 
