@@ -1,14 +1,6 @@
 ##########################################################################
-# @File: initial_data_processing.py
-# @Author: Zhehan Liang
-# @Date: 6/8/2020
-# @Intro: Adjust the original data, process the number of nodes, the minimum degree of the deleted edge node,
-# the data format, etc., and delete a certain number of non-duplicated edges respectively,
-# and finally save them as two new graphs of the source domain and the target domain, and the saving format is .txt
-# tips: Non-cross network, e.g. flickr-flickr
 # @Data source: https://www.aminer.cn/cosnet
 ##########################################################################
-
 import numpy as np
 import os
 import time
